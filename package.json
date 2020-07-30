@@ -1,0 +1,25 @@
+{
+  "name": "hashmypass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loganveik/HashMyPass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loganveik/HashMyPass/issues"
+  },
+  "homepage": "https://github.com/loganveik/HashMyPass#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "browserify": "^16.5.1",
+    "express": "^4.17.1"
+  }
+}

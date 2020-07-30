@@ -1,0 +1,58 @@
+body{
+    background-color: greenyellow;
+}
+.logo{
+    height: 200px;
+}
+.btn{
+    background-color: #e641ff;
+    color: white;
+}
+h2{
+    font-size: 30px;
+}
+.hashedpass{
+    display: flex;
+   flex-direction: row;
+}
+@media all and (max-width: 1200px) {
+    h2{
+        font-size: 25px;
+    }
+}
+@media all and (max-width: 991px) {
+    h2{
+        font-size: 17px;
+    }
+}
+@media all and (max-width: 767px) {
+    h2{
+        font-size: 14px;
+    }
+}
+@media all and (max-width: 575px) {
+    h2{
+        font-size: 11px;
+    }
+}
+@media all and (max-width: 440px) {
+    h2{
+        font-size: 9px;
+    }
+}
+@media all and (max-width: 375px) {
+    h2{
+        font-size: 8px;
+    }
+}
+a{
+    color: #00fbff;
+    text-shadow: black 1px 1px 1px;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
