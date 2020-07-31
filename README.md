@@ -8,7 +8,7 @@ Repo - [https://github.com/loganveik/HashMyPass](https://github.com/loganveik/Ha
 Hash My Pass allows you to enter any password you want to keep secret or disguise and hashes it using Bcrypt and lets you copy the new hashed password to use anywhere.
 
 ### Technologies Used:
-HTML5, Bootstrap4, CSS3, Javascript, jQuery, NodeJS, Express, Bcrypt, Gimp.
+HTML5, Bootstrap4, CSS3, Javascript, jQuery, NodeJS, Express, Bcrypt, Browserify, Gimp.
 
 ### How to Use:
 1) Enter any password that you want hashed through Bcrypt then click the "Hash" button.
